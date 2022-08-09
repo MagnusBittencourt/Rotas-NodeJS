@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "rotas-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagnusBittencourt/Rotas-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagnusBittencourt/Rotas-NodeJS/issues"
+  },
+  "homepage": "https://github.com/MagnusBittencourt/Rotas-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
